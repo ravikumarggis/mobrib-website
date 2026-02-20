@@ -21,11 +21,11 @@ export default function Navigation() {
 
   const navLinks = [
     { label: 'Home', path: '/' },
-    { label: 'Services', path: '/services' },
-    { label: 'About', path: '/about' },
-    { label: 'Blog', path: '/blog' },
-    { label: 'Contact', path: '/contact' },
-    { label: 'Faq', path: '/faq' },
+    // { label: 'Services', path: '/services' },
+    // { label: 'About', path: '/about' },
+    // { label: 'Blog', path: '/blog' },
+    // { label: 'Contact', path: '/contact' },
+    // { label: 'Faq', path: '/faq' },
   ];
 
   const isActive = (path: string) => {
