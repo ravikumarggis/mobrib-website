@@ -7,7 +7,8 @@ import Services from './pages/Services';
 import Contact from './pages/Contact';
 import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
-import FAQ from './pages/Faq';
+import FAQ from './components/Faq';
+
 
 function App() {
   return (
